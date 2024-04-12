@@ -1,0 +1,68 @@
+.orange {
+  color: #ff7e05;
+}
+
+.header {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("background.jpeg");
+  background-size: cover;
+  background-position: center;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.navbar {
+  color: #fff;
+  margin-bottom: 10%;
+}
+
+.nav-link,
+.nav-item,
+p {
+  color: white !important;
+}
+
+.btn1 {
+  background-color: #ff7e05 !important;
+  border: none;
+  padding: 5px 25px;
+  border-radius: 7px;
+}
+
+.opacity {
+  opacity: 0.7;
+}
+
+.titre-form {
+  background-color: white;
+  text-align: center;
+  border-radius: 7px;
+  padding: 10px 50px;
+  margin-bottom: 10px;
+}
+
+.ipt {
+  border: none;
+  width: 100%;
+  border-bottom: 1px solid #ff7e05;
+}
+
+.dark-bg {
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+}
+
+.btn2 {
+  width: 100%;
+  background-color: #ff7e05 !important;
+  margin-bottom: 20px;
+}
+
+.text {
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.ml {
+  padding-bottom: 10%;
+}
